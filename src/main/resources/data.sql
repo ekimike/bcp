@@ -1,0 +1,2 @@
+insert into cambio (cambio_id,cambio_factor,moneda_origen,moneda_destino, port) values(1,3.50,'PEN','USA', 0);
+insert into cambio (cambio_id,cambio_factor,moneda_origen,moneda_destino, port) values(2,50,'USA','PEN', 0);
